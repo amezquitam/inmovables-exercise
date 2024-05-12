@@ -1,13 +1,2 @@
-bin/com/mehill/unmovables/App.class
-bin/com/mehill/unmovables/UnmovableManager.class
-bin/com/mehill/unmovables/UnmovablePercentageReport.class
-bin/com/mehill/unmovables/UnmovablePercentageReportTest.class
-bin/com/mehill/unmovables/entity/AbstractUnmovable.class
-bin/com/mehill/unmovables/entity/AbstractUnmovableTest.class
-bin/com/mehill/unmovables/entity/AbstractUnmovableTest$MockUnmovable.class
-bin/com/mehill/unmovables/entity/Apartment.class
-bin/com/mehill/unmovables/entity/ApartmentTest.class
-bin/com/mehill/unmovables/entity/Client.class
-bin/com/mehill/unmovables/entity/House.class
-bin/com/mehill/unmovables/entity/HouseTest.class
-lib/junit-platform-console-standalone-1.11.0-M1.jar
+bin
+lib
