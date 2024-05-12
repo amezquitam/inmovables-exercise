@@ -12,6 +12,12 @@ import com.mehill.unmovables.entity.Client;
 import com.mehill.unmovables.entity.House;
 
 public class App {
+    
+    public static void main(String[] args) {
+        App app = new App();
+        app.run();
+    }
+
     // Helpers
     private Boolean shouldExit;
 
@@ -224,8 +230,4 @@ public class App {
         }
     }
 
-    public static void main(String[] args) {
-        App app = new App();
-        app.run();
-    }
 }
